@@ -1,0 +1,16 @@
+.NavContainer {
+  bottom: 100px;
+  background-color: black;
+  color: white;
+}
+
+.Bar {
+  display: flex;
+  justify-content: left;
+}
+
+.Items {
+  text-decoration: none;
+  list-style: none;
+  padding-left: 1rem;
+}

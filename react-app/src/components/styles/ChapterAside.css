@@ -1,0 +1,10 @@
+.ChapterAside {
+  position: absolute;
+  background-color: black;
+  padding-right: 2rem;
+  top: 4rem;
+}
+
+.Chapters {
+  color: white;
+}

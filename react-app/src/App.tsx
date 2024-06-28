@@ -1,9 +1,14 @@
+import ChapterAside from "./components/ChapterAside";
 import ListGroup from "./components/ListGroup";
+import NavBar from "./components/NavBar";
 
 function App() {
   return (
     <div>
-      <ListGroup />
+      <NavBar></NavBar>
+      <aside>
+        <ChapterAside></ChapterAside>
+      </aside>
     </div>
   );
 }
