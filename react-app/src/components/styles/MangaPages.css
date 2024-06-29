@@ -1,0 +1,25 @@
+.MangaContainer {
+  position: absolute;
+  right: 25rem;
+  background-color: #222;
+}
+.PageContainer {
+  background-color: #222;
+}
+.PageLeft {
+  height: 872px;
+}
+.PageRight {
+  height: 872px;
+}
+
+.ButtonContainer {
+  position: absolute;
+  right: 32rem;
+}
+
+button {
+  background-color: #343a40;
+  color: white;
+  border: black;
+}

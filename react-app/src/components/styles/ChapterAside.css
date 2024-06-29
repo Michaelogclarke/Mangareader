@@ -1,10 +1,11 @@
 .ChapterAside {
   position: absolute;
-  background-color: black;
+  background-color: #343a40;
   padding-right: 2rem;
-  top: 4rem;
 }
 
-.Chapters {
-  color: white;
+.ChapterDD {
+  background-color: #343a40;
+  border: #343a40;
+  color: whitesmoke;
 }
